@@ -1,0 +1,6 @@
+momentjs.com
+
+clase 37:
+programa para comprimir archivos .js:
+    smaller => es de paga
+    htmlcompressor.com/compressor/ => es gratuito
