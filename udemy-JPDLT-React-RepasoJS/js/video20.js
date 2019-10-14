@@ -1,4 +1,4 @@
-// 19. Metodos o Funciones en un Objeto
+// 20. Metodos o Funciones en un Objeto
 
 /**
  * this es la forma en que accedes a los valores del mismo objeto
